@@ -3,4 +3,5 @@ la la la la la la la la
 la la la la la
 la la la 
 la l
-doing the first commit here 
+doing the first commit here
+doing commit and adding it again ,  
